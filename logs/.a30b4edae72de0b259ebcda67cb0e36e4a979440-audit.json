@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "E:\\Manikandan\\Radiator\\api\\logs\\.a30b4edae72de0b259ebcda67cb0e36e4a979440-audit.json",
+    "files": [
+        {
+            "date": 1628743065945,
+            "name": "E:\\Manikandan\\Radiator\\api\\logs\\Radiator_08-12-2021.log",
+            "hash": "c1ea66cd677100eaa681a601f6cdb600"
+        },
+        {
+            "date": 1628940071613,
+            "name": "E:\\Manikandan\\Radiator\\api\\logs\\Radiator_08-14-2021.log",
+            "hash": "2c5c9878650f6ae0ceb13fed7bf544ff"
+        }
+    ]
+}
